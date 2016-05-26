@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ybx-y0-kPh">
+                                <rect key="frame" x="20" y="0.0" width="560" height="600"/>
+                                <mutableString key="text">先看看家产。
+
+截至2015年底，顺丰资产规模达到了347亿元，拥有12万名员工，旗下拥有全货机45架，其中自有货运飞机30架，根据规划，三年后顺丰自有货机将超过50架。此外还有自有车辆1.5万辆、房屋建筑199处，将近35万平方米。
+
+直接看数字没什么概念，让我们对比一下“四通一达”中比较大的两家：圆通和申通。
+
+圆通目前资产为61亿元，员工22万名，自有、租赁飞机共7架，陆路运送收派车辆3.2万辆。而申通目前资产为28亿元，员工30万名，没有飞机。
+
+就家底而言，顺丰和他的对手们已经拉开了质的距离。
+
+接着看看价格。
+
+2015年，圆通号称快递量全行业第一，总计发送了30.3亿件快递，换来121亿元的收入，平均一件不到4元；申通平均一件甚至低至2.92元。
+
+而顺丰呢？——平均单价超过28元。
+
+当然，由于圆通和申通是加盟制，如果按照比例计算的话，每单收入仍然只有顺丰的一半左右。
+
+最后看看品牌口碑。
+
+在快递界，通常只有顺丰和其他快递两类，就像手机界，只有苹果和其他手机两类一样。口碑这回事，我说了不算，得有数据来佐证。
+
+国家邮政局每个月都会发布一份“主要快递企业的申诉率表”，以上个月，也就是2016年4月份的投诉率来看，每一百万件快递，天天快递的投诉率为20.84件，国通是15.17件，申通是14.11件，中通是7.88件，韵达是6.69件，邮政EMS是5.91件，圆通是5.13件。
+
+顺丰是多少呢？——答案是1.74件。
+
+简单来说，顺丰和其他快递公司简直就像不是处于同一个维度的，无论资产、单品价格，还是品牌口碑，都处于碾压式的优势地位。
+
+既然这样，顺丰又为什么要上市呢？其总镖头王卫又是如何默默将其做大的呢？
+
+顺丰创立至今已有二十多年，期间经历过三次重要转型，这一切都与王卫的眼光和魄力密不可分。
+
+先说第一次转型：【收权直营】。
+
+1998年，申通开始推行加盟制，这一方式以其低成本的优势迅速在全国风靡，应者云集。那时候的顺丰，已在珠三角站住脚跟，很快也跟风模仿而去。不过仅仅过了一年，王卫就停止了加盟政策，要求全部收回网点，坚持直营发展。据说当时谈判并不顺利，一度还被人身威胁。
+
+但王卫坚持住了。加盟与直营，今天两者的优劣势我们已经看得很清楚了，前者成本低，扩张快，但是口碑不佳，更适合低端市场的占领；后者管理严格，培训好，服务优质，但是成本高，更适合高端市场的发展。正是模式的不同选择，决定了两者走上完全不同的道路。
+
+可以说，顺丰今日与众不同的气质，完全有赖于王卫当年的长远眼光，和尽早转向的魄力。
+
+难道四通一达们看不到加盟制的缺陷吗？肯定不是的，但是一来，两相权衡，他们更看重市场份额的影响力，这是我国民营企业家们的普遍抉择；二来，这么多年积重难返，要想再收加盟商们的权，其难度要比十年前只怕高出数十倍，回不去了。
+
+第二次转型：【IT技术】
+
+2003年顺丰开始引入手持终端扫码设备，简称巴枪，这玩意可以同步快递数据，运费结算，拍照，查收派件范围，简直就是一部智能手机。2003年啊，那时候人们还不知道智能手机为何物呢，中移动的数据网络也不过刚刚开通，而顺丰从韩国采购的第一代设备，每台要7000元，真是下了血本了。
+
+除此之外，还有全自动化的分拣系统，配置GPS的运输车，可以说，顺丰的IT系统是武装到牙齿的。这套体系到底花了多少钱，作为外人也很难查询得到，不过越是深入了解，越是让人目瞪口呆，深深的敬佩王卫的眼光之长远。
+
+正是这套先进IT系统的布置，让顺丰与其他快递公司的安全性和派送效率有了光年的差距，如果说，四通一达是典型的劳动密集型企业的话，顺丰就是一</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QUT-DX-Ykw">
+                                <rect key="frame" x="261" y="285" width="78" height="30"/>
+                                <state key="normal" title="peekAction"/>
+                                <connections>
+                                    <action selector="peekAndPopAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6j1-TB-HD9"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="QUT-DX-Ykw" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="6fY-2R-Nbx"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="ybx-y0-kPh" secondAttribute="bottom" id="SxW-Mw-r40"/>
+                            <constraint firstItem="ybx-y0-kPh" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="TTg-VO-mYW"/>
+                            <constraint firstItem="QUT-DX-Ykw" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="hAy-WT-pkF"/>
+                            <constraint firstItem="ybx-y0-kPh" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="iil-MS-TVr"/>
+                            <constraint firstItem="ybx-y0-kPh" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="topMargin" id="v9t-vf-SuU"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="406" y="368"/>
+        </scene>
+    </scenes>
+</document>
