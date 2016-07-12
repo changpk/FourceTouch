@@ -49,7 +49,7 @@
     NSLog(@"location is %@",NSStringFromCGPoint(location));
     
     previewingContext.sourceRect = CGRectMake(100, 100, 180, 180);
-    NSLog(@"-- sourceView is %@",previewingContext.sourceView);
+//    NSLog(@"-- sourceView is %@",previewingContext.sourceView);
     
 
     PreviewViewController *previewController = [[PreviewViewController alloc]init];
